@@ -1,3 +1,4 @@
+#Magic 8-Ball program with random numbers and if else statements
 import random
 
 name = "Joe"
