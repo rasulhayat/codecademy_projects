@@ -1,0 +1,1 @@
+Write a function named count_char_x that takes a string named word and a single character named x as parameters. The function should return the number of times x appears in word.

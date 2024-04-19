@@ -1,0 +1,1 @@
+Write a function named reverse_string that has a string named word as a parameter. The function should return word in reverse.
